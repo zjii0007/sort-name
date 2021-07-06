@@ -1,0 +1,12 @@
+/Users/kwnt/Downloads/Net/sortName/sortName/bin/Debug/netcoreapp3.1/sortName.deps.json
+/Users/kwnt/Downloads/Net/sortName/sortName/bin/Debug/netcoreapp3.1/sortName.runtimeconfig.json
+/Users/kwnt/Downloads/Net/sortName/sortName/bin/Debug/netcoreapp3.1/sortName.runtimeconfig.dev.json
+/Users/kwnt/Downloads/Net/sortName/sortName/bin/Debug/netcoreapp3.1/sortName.dll
+/Users/kwnt/Downloads/Net/sortName/sortName/bin/Debug/netcoreapp3.1/sortName.pdb
+/Users/kwnt/Downloads/Net/sortName/sortName/obj/Debug/netcoreapp3.1/sortName.csproj.AssemblyReference.cache
+/Users/kwnt/Downloads/Net/sortName/sortName/obj/Debug/netcoreapp3.1/sortName.AssemblyInfoInputs.cache
+/Users/kwnt/Downloads/Net/sortName/sortName/obj/Debug/netcoreapp3.1/sortName.AssemblyInfo.cs
+/Users/kwnt/Downloads/Net/sortName/sortName/obj/Debug/netcoreapp3.1/sortName.csproj.CoreCompileInputs.cache
+/Users/kwnt/Downloads/Net/sortName/sortName/obj/Debug/netcoreapp3.1/sortName.dll
+/Users/kwnt/Downloads/Net/sortName/sortName/obj/Debug/netcoreapp3.1/sortName.pdb
+/Users/kwnt/Downloads/Net/sortName/sortName/obj/Debug/netcoreapp3.1/sortName.genruntimeconfig.cache
