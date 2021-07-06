@@ -4,7 +4,7 @@ Given a set of names, order that set first by last name, then by any given names
 
 The project is build using Visual Studio 2019 (Mac version)
 
-#Important!
+# Important!
 Since this project is developed by mac version visual studio, there are some problems when using Windows to run this app. I strongly recommand using Mac version visual studio run this project.
 And if you are using Mac, the unsorted-names-list.txt file should be put in the sortName/sortName/bin/Debug/netcoreapp3.1
 
