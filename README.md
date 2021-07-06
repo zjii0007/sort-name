@@ -2,7 +2,11 @@
 NameSorter is a simple console in C# that sorts a list of names according to condition :
 Given a set of names, order that set first by last name, then by any given names the person may have. A name must have at least 1 given name and may have up to 3 given names.
 
-The project is build using Visual Studio 2019
+The project is build using Visual Studio 2019 (Mac version)
+
+#Important!
+Since this project is developed by mac version visual studio, there are some problems when using Windows to run this app. I strongly recommand using Mac version visual studio run this project.
+And if you are using Mac, the unsorted-names-list.txt file should be put in the sortName/sortName/bin/Debug/netcoreapp3.1
 
 ## Example Usage
 
